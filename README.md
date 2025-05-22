@@ -135,7 +135,6 @@ Unity kurulu olmalı
 ## PROJE DETAYLARI  
 
 Takım Adı: Sharingans  
-
+GitHub Etiketi: #ttg5hackathon2025
 Klasör: Sharingans
-Github Kodu :
-#ttg5hackathon2025
+
